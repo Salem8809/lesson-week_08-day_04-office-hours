@@ -45,7 +45,7 @@ http://localhost:3000/courses
 
 it's not like ruby method , http method indicates the type of the req while ruby methods executes code
 
-# ERP TEMPLTE
+# ERB TEMPLTE
 
 <p> Time <%= Time.now %> </p>
 
