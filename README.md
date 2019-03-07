@@ -147,3 +147,5 @@ rails generate migration AddSomethingToModel attribute1:type attribute2:type
 Reference:
 
 [https://gist.github.com/mdang/95b4f54cadf12e7e0415](https://gist.github.com/mdang/95b4f54cadf12e7e0415)
+[http://www.pragtob.info/rails-beginner-cheatsheet/])(http://www.pragtob.info/rails-beginner-cheatsheet/)
+[http://staff.um.edu.mt/alexiei.dingli/IntroductionToWS/Lectures/ruby-on-rails-cheat-sheet-v1.pdf](http://staff.um.edu.mt/alexiei.dingli/IntroductionToWS/Lectures/ruby-on-rails-cheat-sheet-v1.pdf)
