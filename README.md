@@ -26,9 +26,9 @@ Views show data its users most, often in the form of HTML web pages.
 http://localhost:3000/courses
 ```
 
-`http://` stand hypertext transfer protocol it is a set of rules web browsers and computers used to communicate with each other
+`http://` http stand hypertext transfer protocol it is a set of rules web browsers and computers used to communicate with each other
 
-`localhost` or `www.generassemb.ly` the address of the host the computer running your app send a request from your computer to your computer
+`localhost` or `www.generassemb.ly` is the address of the host the computer running if it is localhost then your app send a request from your computer to your computer
 
 `3000` to prevent conflict
 
@@ -40,7 +40,7 @@ http://localhost:3000/courses
 
 - GET
 - POST
-- PUT
+- PUT / PATCH
 - DELETE
 
 it's not like ruby method , http method indicates the type of the req while ruby methods executes code
